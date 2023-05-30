@@ -1,0 +1,7 @@
+bgfilepath: /Users/ziancallao/Documents/GitHub/Image_Background_Removal/bg.jpeg
+mode: fillcolor
+fillcolor: 130,120,130
+
+## filepath for image background
+## choose modes between 'image', 'transparent', 'fillcolor'
+## rgb values for fill
